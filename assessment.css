@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue;
+    color: ghostwhite;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding:5px 20px;
+    background-color: deepskyblue;
+    border-style: none;
+    color: ghostwhite;
+}
+input{
+    height: 20px;
+}
